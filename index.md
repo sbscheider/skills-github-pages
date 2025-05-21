@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+New Pages: Hello page
 ---
 
